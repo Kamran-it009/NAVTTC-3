@@ -2,8 +2,8 @@
 1. Complete all the 4 questions in this assignment.
 2. Write clean and well-commented Python code.
 3. Test your code to ensure the output matches the expected results.
-4. Submit your solutions as a Jupyter Notebook (`.ipynb`)
-5. Use meaningful variable names and proper indentation in your code.
+4. Create seperate python files for each question (e.g., `q1.py`, `q2.py`, etc.).
+5. Submit your solutions as a (`.py`) file 
 
 ## Assignment Questions
 
