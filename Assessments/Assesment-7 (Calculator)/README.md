@@ -1,1 +1,3 @@
-### Create a full GUI-based scientific calculator using streamlit library and python programming language. The calculator should be able to accept the input from mouse as well as keyboard and should be able to perform basic arithmetic operations like addition, subtraction, multiplication, and division. Additionally, it should also support advanced mathematical functions such as trigonometric functions, logarithmic functions, and exponentiation.
+# Scientific Calculator
+
+Create a full GUI-based scientific calculator using streamlit library and python programming language. The calculator should be able to accept the input from mouse as well as keyboard and should be able to perform basic arithmetic operations like addition, subtraction, multiplication, and division. Additionally, it should also support advanced mathematical functions such as trigonometric functions, logarithmic functions, and exponentiation.
